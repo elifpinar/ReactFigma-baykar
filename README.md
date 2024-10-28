@@ -74,5 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Bu proje için ekran görüntüleri:
 
-![Ekran Görüntüsü 1](components/screenshots/screenshot1.png)
-![Ekran Görüntüsü 2](components/screenshots/screenshot2.png)
+![Ekran Görüntüsü 1](src/components/screenshots/screenshot1.png)
+![Ekran Görüntüsü 2](src/components/screenshots/screenshot2.png)
