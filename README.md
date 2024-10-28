@@ -1,3 +1,16 @@
+
+# Figma Design
+
+Bu proje için ekran görüntüleri:
+
+![Ekran Görüntüsü 1](src/components/screenshots/screenshot1.PNG)
+![Ekran Görüntüsü 2](src/components/screenshots/screenshot2.PNG)
+![Ekran Görüntüsü 3](src/components/screenshots/screenshot3.PNG)
+![Ekran Görüntüsü 4](src/components/screenshots/screenshot4.PNG)
+![Ekran Görüntüsü 5](src/components/screenshots/screenshot5.PNG)
+![Ekran Görüntüsü 6](src/components/screenshots/screenshot6.PNG)
+![Ekran Görüntüsü 7](src/components/screenshots/screenshot7.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,17 +81,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-# Proje Başlığı
-
-Bu proje için ekran görüntüleri:
-
-![Ekran Görüntüsü 1](src/components/screenshots/screenshot1.PNG)
-![Ekran Görüntüsü 2](src/components/screenshots/screenshot2.PNG)
-![Ekran Görüntüsü 3](src/components/screenshots/screenshot3.PNG)
-![Ekran Görüntüsü 4](src/components/screenshots/screenshot4.PNG)
-![Ekran Görüntüsü 5](src/components/screenshots/screenshot5.PNG)
-![Ekran Görüntüsü 6](src/components/screenshots/screenshot6.PNG)
-![Ekran Görüntüsü 7](src/components/screenshots/screenshot7.PNG)
-
