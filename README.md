@@ -76,3 +76,9 @@ Bu proje için ekran görüntüleri:
 
 ![Ekran Görüntüsü 1](src/components/screenshots/screenshot1.PNG)
 ![Ekran Görüntüsü 2](src/components/screenshots/screenshot2.PNG)
+![Ekran Görüntüsü 2](src/components/screenshots/screenshot3.PNG)
+![Ekran Görüntüsü 2](src/components/screenshots/screenshot4.PNG)
+![Ekran Görüntüsü 2](src/components/screenshots/screenshot5.PNG)
+![Ekran Görüntüsü 2](src/components/screenshots/screenshot6.PNG)
+![Ekran Görüntüsü 2](src/components/screenshots/screenshot7.PNG)
+
